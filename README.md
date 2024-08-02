@@ -12,8 +12,8 @@ Image Quality Detector is a Flutter application that utilizes machine learning t
 
 ## Screenshots
 
-![Image Analysis](screenshots/image_analysis.png)
-![Image Analysis](screenshots/image_analysis1.png)
+![Image Analysis](screenshots/screenshots1.png)
+![Image Analysis](screenshots/screenshots2.png)
 
 
 ## Demo Video
