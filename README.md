@@ -1,6 +1,8 @@
 # Image Quality Detector
 
-Image Quality Detector is a Flutter application that utilizes machine learning to detect and assess the quality of images. The app uses the `tflite_flutter` plugin to run image quality detection models trained in Google Teachable Machine.
+Image Quality Detector is a Flutter application that utilizes machine learning to detect and assess the quality of images. The app uses TensorFlow Lite via the `tflite_flutter` plugin to run image quality detection models trained in Google Teachable Machine.
+
+
 
 ## Features
 
@@ -10,8 +12,15 @@ Image Quality Detector is a Flutter application that utilizes machine learning t
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Image Analysis](screenshots/image_analysis.png)
+![Home Screen](screenshots/image_analysis.png)
+![Image Analysis](screenshots/image_analysis1.png)
+
+
+## Demo Video
+
+Watch the demo video to see the app in action:
+
+[Demo Video](assets/screenshots/demo_video.mp4)
 
 
 
